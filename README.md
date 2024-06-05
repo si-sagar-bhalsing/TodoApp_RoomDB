@@ -1,5 +1,3 @@
-Here's a formatted version of your README content for GitHub:
-
 ---
 
 ## Components of the Architecture:
