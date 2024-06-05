@@ -1,5 +1,3 @@
----
-
 ## Components of the Architecture:
 
 ### ViewModel:
